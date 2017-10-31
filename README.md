@@ -1,4 +1,4 @@
-#Travel_Reminders  
+# Travel Reminders  
 This is an app that registers your travel date  
 and the important things that you'll have to carry while  
 travelling. It then sends automated messages and  
